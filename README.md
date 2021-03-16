@@ -80,7 +80,7 @@ We highly recommend using `truffle develop` over `testrpc`, but if you want to u
    ```
 
 ## update code
-fix npm install manual
-use navigator Chrome
-function import default to fix
-address not exist => truffle migrate --network ganache --reset
+- fix npm install manual
+- use navigator Chrome
+- function import default to fix
+- address not exist => truffle migrate --network ganache --reset
